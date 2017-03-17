@@ -1,2 +1,2 @@
 console.log('Loaded!');
-alert("Welcome to our server you will be serverd here");
+alert('welcome to parikshti singh page');
